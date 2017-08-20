@@ -1,7 +1,7 @@
 
 % Purpose: test TIE solution
 %% Debug version for developer
-
+qqqqqqqqqqqq
 
 clear;
 close all;
